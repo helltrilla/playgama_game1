@@ -1,0 +1,11 @@
+node_modules
+dist
+game.zip
+game-v*.zip
+screenshots.zip
+.tools
+*.log
+shots
+.DS_Store
+test-results
+output
